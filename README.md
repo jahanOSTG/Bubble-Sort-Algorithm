@@ -28,6 +28,14 @@ End For
 ###  Step 7: End  
 
 ---
+## Bubble Sort Visualization:
+---
+
+Here is a visual representation of how the  Bubble Sort Algorithm works:
+
+<img src="output.png" width="700" height="400" alt="Bubble">
+
+---
 
 ##  Complexity 
 
