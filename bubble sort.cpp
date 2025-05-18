@@ -1,7 +1,6 @@
 #include <iostream>
 using namespace std;
 
-
 void bubble_sort(int a[], int n) {
     for (int i = 0; i < n - 1; i++) {     //outer loop
         for (int j = 0; j < n - 1 - i; j++) {   //inner loop
